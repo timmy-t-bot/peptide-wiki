@@ -1,8 +1,12 @@
-# Peptide Optimization Wiki
+- [[humanin]] — Mitochondrial-derived peptide (MT-RNR2); cytoprotective, anti-apoptotic signal; neuroprotection in rodent models; confidence: low
+- [[dihexa]] — Angiotensin IV-derived oligopeptide; c-Met agonist stimulating synaptogenesis; contested cognitive claims, high oncogenic risk; confidence: low
+- [[foxo4-dri]] — D-retro-inverso senolytic peptide; disrupts FOXO4-p53 to clear senescent cells; pulmonary hypertension safety signal; confidence: low
 
 > Content catalog for peptide-based human optimization, longevity, and disease prevention.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-06-09 | Total pages: 21
+- [[humanin]] — Mitochondrial-derived peptide (MT-RNR2); cytoprotective, anti-apoptotic signal; neuroprotection in rodent models; confidence: low
+- [[dihexa]] — Angiotensin IV-derived oligopeptide; c-Met agonist stimulating synaptogenesis; contested cognitive claims, high oncogenic risk; confidence: low
+- [[foxo4-dri]] — D-retro-inverso senolytic peptide; disrupts FOXO4-p53 to clear senescent cells; pulmonary hypertension safety signal; confidence: low
 
 ## Entities (Peptides)
 - [[bremelanotide]] — PT-141 (Vyleesi); FDA-approved melanocortin receptor agonist for HSDD in premenopausal women; SC autoinjector; nausea 40%; contested efficacy; confidence: medium
@@ -25,17 +29,27 @@
 - [[tesamorelin]] — Synthetic 44-aa GHRH analogue (Egrifta SV); FDA-approved for HIV-associated lipodystrophy; robust Phase 3 + meta-analysis; confidence: high
 - [[humanin]] — Mitochondria-derived peptide (MT-RNR2); cytoprotective, neuroprotective, metabolic effects; zero human interventional trials; confidence: low
 - [[dihexa]] — Angiotensin IV-derived oligopeptide; disputed HGF/c-Met mechanism (key paper retracted 2025); negative HD replication; zero human trials; confidence: low
-- [[foxo4-dri]] — D-retro-inverso senolytic peptide; disrupts FOXO4-p53 to clear senescent cells; strong animal rejuvenation data; critical pulmonary hypertension safety signal; zero human trials; confidence: low
+- [[humanin]] — Mitochondrial-derived peptide (MT-RNR2); cytoprotective, anti-apoptotic signal; neuroprotection in rodent models; confidence: low
+- [[dihexa]] — Angiotensin IV-derived oligopeptide; c-Met agonist stimulating synaptogenesis; contested cognitive claims, high oncogenic risk; confidence: low
+- [[foxo4-dri]] — D-retro-inverso senolytic peptide; disrupts FOXO4-p53 to clear senescent cells; pulmonary hypertension safety signal; confidence: low
 
 ## Concepts
 - [[growth-hormone-release]] — Hypothalamic-pituitary mechanism regulating GH secretion; modulated by GHRH analogues and GH secretagogues
-- [[telomerase]] — Enzyme that extends telomere ends; central to longevity research and cancer risk paradox; modulated by [[epitalon]]
+- [[humanin]] — Mitochondrial-derived peptide (MT-RNR2); cytoprotective, anti-apoptotic signal; neuroprotection in rodent models; confidence: low
+- [[dihexa]] — Angiotensin IV-derived oligopeptide; c-Met agonist stimulating synaptogenesis; contested cognitive claims, high oncogenic risk; confidence: low
+- [[foxo4-dri]] — D-retro-inverso senolytic peptide; disrupts FOXO4-p53 to clear senescent cells; pulmonary hypertension safety signal; confidence: low
 
 ## Comparisons
-<!-- Alphabetical within section -->
+- [[humanin]] — Mitochondrial-derived peptide (MT-RNR2); cytoprotective, anti-apoptotic signal; neuroprotection in rodent models; confidence: low
+- [[dihexa]] — Angiotensin IV-derived oligopeptide; c-Met agonist stimulating synaptogenesis; contested cognitive claims, high oncogenic risk; confidence: low
+- [[foxo4-dri]] — D-retro-inverso senolytic peptide; disrupts FOXO4-p53 to clear senescent cells; pulmonary hypertension safety signal; confidence: low
 
 ## Queries
-<!-- Alphabetical within section -->
+- [[humanin]] — Mitochondrial-derived peptide (MT-RNR2); cytoprotective, anti-apoptotic signal; neuroprotection in rodent models; confidence: low
+- [[dihexa]] — Angiotensin IV-derived oligopeptide; c-Met agonist stimulating synaptogenesis; contested cognitive claims, high oncogenic risk; confidence: low
+- [[foxo4-dri]] — D-retro-inverso senolytic peptide; disrupts FOXO4-p53 to clear senescent cells; pulmonary hypertension safety signal; confidence: low
 
 ## Protocols & Stacks
-<!-- Alphabetical within section -->
+- [[humanin]] — Mitochondrial-derived peptide (MT-RNR2); cytoprotective, anti-apoptotic signal; neuroprotection in rodent models; confidence: low
+- [[dihexa]] — Angiotensin IV-derived oligopeptide; c-Met agonist stimulating synaptogenesis; contested cognitive claims, high oncogenic risk; confidence: low
+- [[foxo4-dri]] — D-retro-inverso senolytic peptide; disrupts FOXO4-p53 to clear senescent cells; pulmonary hypertension safety signal; confidence: low

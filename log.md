@@ -322,3 +322,4 @@
 - Zero human interventional trials; developer is Cleara Biotech (Utrecht)
 - Peer review: REQUEST_CHANGES → resolved (Baar endpoints qualified to commentary source, dosing removed, comparison table annotated, theoretical safety concerns flagged, "elegant" removed, developer attribution fixed)
 - Confidence: low. contested: true. human_evidence: none. safety_profile: research-only
+## [2026-06-12] nightly-batch-9 | humanin, dihexa, foxo4-dri | confidence:low
