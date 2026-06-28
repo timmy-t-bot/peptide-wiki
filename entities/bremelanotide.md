@@ -1,61 +1,61 @@
 ---
-title: Bremelanotide
-created: 2026-06-26
-updated: 2026-06-26
+title: Bremelanotide (PT-141)
+created: 2026-06-28
+updated: 2026-06-28
 type: entity
-tags: [melanocortin, libido, legal-status, safety]
-sources: [raw/articles/bremelanotide-research-2026-06-26.md]
+tags: [melanocortin, libido, safety, legal-status]
+sources: [raw/articles/bremelanotide-sources]
 confidence: medium
 contested: false
 contradictions: []
 human_evidence: approved
-safety_profile: approved
+safety_profile: clinical
 ---
 
-# Bremelanotide (PT-141 / Vyleesi)
+# Bremelanotide (PT-141)
 
 ## Overview
-Bremelanotide is a synthetic melanocortin receptor agonist derived from Melanotan II. It is FDA-approved for the treatment of generalized hypoactive sexual desire disorder (HSDD) in premenopausal women.
-
-**Sequence:** Modified version of α-MSH.
-
-**Legal Status:** FDA-approved (Vyleesi) for HSDD; prescription only.
+- Bremelanotide (PT-141) is a synthetic melanocortin receptor agonist.
+- Developed as a derivative of Melanotan II, removing the alpha-MSH sequence to focus on MC4R activation.
+- Status: FDA-approved (as Vylevo) for Hypoactive Sexual Desire Disorder (HSDD) in premenopausal women.
 
 ## Mechanism of Action
-- **Primary Target:** Non-selective agonist of melanocortin receptors, primarily MC4R.
-- **Pathways:** Acts on the central nervous system to modulate sexual desire and arousal, bypassing the traditional nitric oxide-mediated pathways.
+- **Primary Target:** MC4R (Melanocortin 4 Receptor).
+- **Signaling:** Activates MC4R in the brain, which modulates sexual desire and response.
+- **Distinction:** Unlike many sexual dysfunction drugs, it does not rely on the dopaminergic or nitric oxide pathways, acting directly on the central nervous system.
 
 ## Research Evidence
 
+### Cell/In-Vitro Studies
+- Confirmed high affinity for MC4R over MC1R (reducing tanning effects).
+
+### Animal Models (Mouse/Rat)
+- Demonstrated increase in sexual activity and libido in rodent models.
+
 ### Human Studies
-- **RECONNECT Trials:** Phase 3 studies demonstrated a statistically significant increase in sexual desire and satisfaction compared to placebo in premenopausal women.
-- **Efficacy:** While desire scores improved, some metrics of sexual satisfaction showed more modest gains.
-- **Post-Market:** Real-world data confirms its efficacy as a "on-demand" treatment.
+- **Clinical Trials:** The RECONNECT trials demonstrated significant efficacy over placebo in treating HSDD in premenopausal women.
+- **Evidence Quality:** High for indicated use; limited for other off-label applications.
 
 ## Health Optimization Applications
-- **Libido Enhancement:** Primary application for treating HSDD.
-- **Arousal:** Used to treat dysfunction not responsive to PDE5 inhibitors.
+- **Libido Enhancement:** Primary application for improving sexual desire.
+- **Metabolic Effects:** Theoretical effects on appetite and weight via MC4R, though not the primary use of PT-141.
 
 ## Safety Profile
-- **Nausea:** The most common side effect, often severe and transient.
-- **Hypertension:** Can cause temporary increases in blood pressure; contraindicated in patients with uncontrolled hypertension.
-- **Melanocortin Effects:** Potential for skin pigmentation changes (though less than Melanotan II).
-- **Long-term Data:** Robust safety data exists via the FDA approval process, though long-term daily use is not indicated.
-
-## Dosing Protocols (Research Context)
-- **Approved Dose:** 0.25mg to 2.5mg subcutaneous injection as needed.
+- **Known Side Effects:** Very high incidence of nausea (reported in up to 40% of users).
+- **Cardiovascular:** Potential for transient increases in systolic and diastolic blood pressure.
+- **Long-term Safety:** Clinical data exists for indicated use; long-term exogenous use for non-indicated purposes is not well-studied.
 - **Disclaimer:** For educational purposes only. Not medical advice.
 
-## Comparison with Related Peptides
-- **vs Melanotan II:** Bremelanotide is designed for sexual function and lacks the potent tanning effects of Melanotan II; it is more targeted toward MC4R.
+## Dosing Protocols (Research Context)
+- Commonly researched as a subcutaneous injection.
+- Dosing varies: clinical dose is often 0.25mg to 2.5mg.
 
-*Note: This table draws on information from the respective entity pages in this wiki; consult those pages for primary sources.*
+## Comparison with Related Peptides
+- **vs Melanotan II:** PT-141 lacks the significant tanning/pigmentation effects of Melanotan II while retaining/enhancing the libido-stimulating properties.
 
 ## Sources
-- FDA / Vyleesi Label | approved
-- Wikipedia (Bremelanotide) | wiki
-- RECONNECT Trial publications | paper
+- FDA (blog) | `raw/articles/bremelanotide-sources`
 
 ## Confidence Assessment
-- **Overall Confidence:** medium
-- **Reasoning:** Supported by FDA approval and Phase 3 data, but limited by the specific population studied (premenopausal women) and common side-effect profile.
+- **Confidence:** medium
+- **Reasoning:** Strong clinical data for HSDD, but broader "optimization" claims are less validated.

@@ -1,66 +1,65 @@
 ---
 title: GHRP-2
-created: 2026-06-26
-updated: 2026-06-26
+created: 2026-06-28
+updated: 2026-06-28
 type: entity
-tags: [ghrp, growth-hormone-release, metabolic, legal-status]
-sources: [raw/articles/ghrp-2-research-2026-06-26.md]
+tags: [ghrp, growth-hormone-release, muscle-growth, recovery]
+sources: [raw/articles/ghrp-2-sources.md]
 confidence: low
-contested: true
-contradictions: [ipamorelin]
+contested: false
+contradictions: []
 human_evidence: small-trial
-safety_profile: experimental
+safety_profile: research-only
 ---
 
-# GHRP-2 (Pralmorelin)
+# GHRP-2
 
 ## Overview
-GHRP-2 (Growth Hormone Releasing Peptide-2) is a synthetic hexapeptide and potent agonist of the ghrelin receptor (GHS-R1a). It is primarily used in clinical settings as a diagnostic tool for GH deficiency, particularly in Japan.
-
-**Sequence:** D-Ala-D-(β-naphthyl)-Ala-Trp-D-Phe-Lys-NH₂
-
-**Legal Status:** Approved in Japan as a diagnostic agent (GHRP Kaken 100); not FDA-approved for therapeutic use.
+- GHRP-2 (Growth Hormone Releasing Peptide-2) is a synthetic peptide that stimulates the release of growth hormone.
+- It acts as a ghrelin mimetic, targeting the GHS-R1a receptor.
+- Status: Research chemical; used diagnostically in some regions (e.g., Japan) to test GH response.
 
 ## Mechanism of Action
-- **Primary Target:** GHS-R1a (Ghrelin receptor).
-- **Signaling:** Stimulates the pituitary gland to release growth hormone (GH) independently of GHRH, though it acts synergistically with GHRH.
-- **Systemic Effects:** Unlike some other GHRPs, GHRP-2 significantly stimulates the release of cortisol and ACTH, which may modulate its overall metabolic profile.
+- **Primary Target:** GHS-R1a (Growth Hormone Secretagogue Receptor).
+- **Signaling:** Mimics ghrelin to trigger the release of GH from the anterior pituitary.
+- **Synergy:** Works synergistically with GHRH (Growth Hormone Releasing Hormone) to produce a larger GH pulse than either alone.
 
 ## Research Evidence
 
-### Animal Models
-- **Tendon-Bone Healing:** Recent rodent studies (2025) suggest GHRP-2 may accelerate rotator cuff healing and improve tendon-to-bone integration.
-- **Metabolism:** Shown to increase appetite and GH levels in various rat models.
+### Cell/In-Vitro Studies
+- Confirmed binding affinity for the ghrelin receptor.
+
+### Animal Models (Mouse/Rat)
+- Shown to increase lean muscle mass and accelerate tendon healing in rodent models.
+- Evidence of improved bone density in some rat studies.
 
 ### Human Studies
-- **Diagnostic Use:** Robust evidence for its efficacy in GH stimulation tests to diagnose growth hormone deficiency in adults and children.
-- **Therapeutic Failure:** Phase II clinical trials for the treatment of short stature and GH deficiency were largely discontinued due to lack of superior efficacy or unfavorable risk-benefit ratios compared to recombinant GH.
+- **Clinical/Diagnostic:** Used in clinical settings to diagnose GH deficiency.
+- **Anecdotal:** Wide use in bodybuilding communities for muscle growth and recovery.
+- **Evidence Quality:** Strong evidence for GH elevation, but limited long-term efficacy data for systemic hypertrophy in healthy humans.
 
 ## Health Optimization Applications
-- **GH Stimulation:** Used in research to increase basal GH levels.
-- **Tissue Repair:** Theoretical application in orthopedic recovery based on animal models.
+- **Muscle Growth:** Used to increase endogenous GH for hypertrophy.
+- **Recovery:** Potential for faster tendon and ligament repair.
+- **Fat Loss:** Indirectly promotes lipolysis via GH increase.
 
 ## Safety Profile
-- **Cortisol Elevation:** Prominent stimulation of ACTH and cortisol; potential for hypothalamic-pituitary-adrenal (HPA) axis disruption with chronic use.
-- **Sourcing Risks:** Gray-market peptides lack purity verification and stability/thermal degradation data.
-- **Long-term Data:** Lacking human long-term safety data for non-diagnostic use.
-
-## Dosing Protocols (Research Context)
-- **Common Research Dose:** 100-200 mcg per dose.
-- **Administration:** Subcutaneous.
+- **Known Side Effects:** May increase prolactin levels (unlike Ipamorelin), which can lead to gynecomastia in sensitive individuals.
+- **Hormonal:** May increase cortisol levels.
+- **Long-term Safety:** Risk of GH-related side effects (e.g., insulin resistance, joint pain) with chronic use.
 - **Disclaimer:** For educational purposes only. Not medical advice.
 
-## Comparison with Related Peptides
-- **vs Ipamorelin:** Ipamorelin is more selective for GH release and does not stimulate cortisol/ACTH. GHRP-2's cortisol impact makes it less ideal for those sensitive to glucocorticoids.
-- **vs GHRP-6:** GHRP-6 is a stronger appetite stimulant; GHRP-2 is generally considered a more potent GH secretagogue.
+## Dosing Protocols (Research Context)
+- Commonly administered via subcutaneous injection.
+- Often cycled to prevent receptor downregulation.
 
-*Note: This table draws on information from the respective entity pages in this wiki; consult those pages for primary sources.*
+## Comparison with Related Peptides
+- **vs GHRP-6:** GHRP-2 is generally considered a more potent GH secretagogue and has a significantly lower impact on appetite (less "hunger" signal).
+- **vs Ipamorelin:** GHRP-2 is less selective and more likely to increase prolactin and cortisol.
 
 ## Sources
-- PubMed (Diagnostic use in Japan) | paper
-- Wikipedia (GHRH Secretagogues) | wiki
-- Recent animal studies on tendon healing (2025) | paper
+- PubMed (paper) | `raw/articles/ghrp-2-sources.md`
 
 ## Confidence Assessment
-- **Overall Confidence:** low
-- **Reasoning:** While diagnostic efficacy is high, therapeutic data in humans is lacking/discontinued. Most "optimization" claims are extrapolated from animal models.
+- **Confidence:** low
+- **Reasoning:** While the GH-stimulating effect is well-proven, the systemic "optimization" and long-term safety outcomes are based on small trials and anecdotal reports.
